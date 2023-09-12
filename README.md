@@ -14,7 +14,9 @@ Here's a list of the projects you'll find in this repository:
 
 2. **BMI Calculator**: A simple BMI (Body Mass Index) calculator that helps you calculate your BMI based on your height and weight and provides a weight status category.
 
+3. **Digital Clock**: Stay up-to-date with your local time and date using this web application. It displays the current local time and date, making it easy for you to track time wherever you are.
 
+4. **Number Guessing Game**: Test your guessing skills with this interactive game. Try to guess the random number between 1 and 100 within 10 attempts. Are you up for the challenge?
 
 ## How to Use
 
