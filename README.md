@@ -18,6 +18,10 @@ Here's a list of the projects you'll find in this repository:
 
 4. **Number Guessing Game**: Test your guessing skills with this interactive game. Try to guess the random number between 1 and 100 within 10 attempts. Are you up for the challenge?
 
+5. **Bubble Game**: A fun and challenging game where you need to click on bubbles with numbers matching the "hit" number to score points within a limited time. Play it [here](https://bubble-game-hs.netlify.app/).
+
+
+
 ## How to Use
 
 1. Clone or download this repository to your local machine.
